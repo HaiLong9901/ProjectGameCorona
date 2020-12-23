@@ -30,5 +30,5 @@ Bài tập lớn môn kỹ thuật lập trình
 - *File.h*: Gồm các hàm xử lý file *.txt*
 ### 2) Chương trình chính
 ## III) Cách chơi Game "BK Corona Fighter"
-1)Khi khởi động Game, màn hình chính của Game sẽ là menu gồm các 
-<img src="https://photos.app.goo.gl/QunTpyfSJFKudgrV7">
+1)Khi khởi động Game, màn hình chính của Game sẽ là menu gồm các chức năng để người chơi lựa chọn
+
