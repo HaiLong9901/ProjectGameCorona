@@ -31,4 +31,4 @@ Bài tập lớn môn kỹ thuật lập trình
 ### 2) Chương trình chính
 ## III) Cách chơi Game "BK Corona Fighter"
 1)Khi khởi động Game, màn hình chính của Game sẽ là menu gồm các 
-![alt](https://photos.app.goo.gl/QunTpyfSJFKudgrV7)
+<img src="https://photos.app.goo.gl/QunTpyfSJFKudgrV7">
