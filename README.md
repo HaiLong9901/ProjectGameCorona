@@ -13,7 +13,7 @@ Bài tập lớn môn kỹ thuật lập trình
      -SDL hỗ trợ trên các hệ điều hành như: Windows, Mac OS X, Linux, iOS và Android.
  
      -Các game sử dụng thư viện SDL như: Syberia II, 7 Grands Step, Secret Maryo Chronicles,…
-- IDE hỗ trợ lập trình : Visual Studio 2019
+- IDE hỗ trợ lập trình : **Visual Studio 2019**
 - Các phần mềm hỗ trợ khác:
   - **Adobe Illustrator** 
   - **Adobe Photoshop**
@@ -22,9 +22,13 @@ Bài tập lớn môn kỹ thuật lập trình
   - https://www.freepik.com/
 ## II)Cấu trúc chương trình
 ### 1) Các file Header
-- Test.h: Gồm các hàm xử lý các thao tác load ảnh và tương tác với người dùng với game
-- Object.h: Tạo ra 1 lớp đối tượng chung
-- Character.h: Tạo ra lớp đối tượng nhân vật và các hàm xử lý nhân vật chơi
-- Threats.h: Tạo ra lớp đối tượng vật rơi và các hàm xủ lý
-- TextGame.h: Tạo ra đối tượng text và các thao tác load text lên giao diện game
-- File.h: Gồm các hàm xử lý file *.txt*
+- *Test.h*: Gồm các hàm xử lý các thao tác load ảnh và tương tác với người dùng với game
+- *Object.h*: Tạo ra 1 lớp đối tượng chung
+- *Character.h*: Tạo ra lớp đối tượng nhân vật và các hàm xử lý nhân vật chơi
+- *Threats.h*: Tạo ra lớp đối tượng vật rơi và các hàm xủ lý
+- *TextGame.h*: Tạo ra đối tượng text và các thao tác load text lên giao diện game
+- *File.h*: Gồm các hàm xử lý file *.txt*
+### 2) Chương trình chính
+## III) Cách chơi Game "BK Corona Fighter"
+1)Khi khởi động Game, màn hình chính của Game sẽ là menu gồm các 
+![alt](https://photos.app.goo.gl/QunTpyfSJFKudgrV7)
