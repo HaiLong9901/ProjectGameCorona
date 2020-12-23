@@ -14,5 +14,6 @@ Bài tập lớn môn kỹ thuật lập trình
  
      -Các game sử dụng thư viện SDL như: Syberia II, 7 Grands Step, Secret Maryo Chronicles,…
 - IDE hỗ trợ lập trình : Visual Studio 2019
-- Các phần mềm hỗ trợ khác: Adobe Illustrator Cc 2019
-                            Adobe Photoshop CC 2015
+- Các phần mềm hỗ trợ khác:
+  - Adobe Illustrator 
+  - Adobe Photoshop
