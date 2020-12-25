@@ -39,7 +39,7 @@ Bài tập lớn môn kỹ thuật lập trình
     <img src="Gameimg4.png">
   - ```Chọn Highest Score để xem điểm cao nhất mà người chơi đã đạt được```
     <img src="Gameimg3.png">
-  - ```Chọn Characters để lựa chọn nhân vật bạn ưa thích```
+  - ```Chọn Character để lựa chọn nhân vật bạn ưa thích```
     <img src="Gameimg2.png">
   - ``` Nhấn Play Game để chơi Game, khi đó màn hình chơi sẽ hiện ra```
     <img src="Gameimg5.png">
@@ -48,4 +48,4 @@ Bài tập lớn môn kỹ thuật lập trình
     <img src="Gameimg6.png">
   - ``` Người chơi thua cuộc khi số virus dính trên người lớn hơn 3. ```
     <img src="Gameimg7.png">
-  -``` Nhấn Ok để thoát Game hoặc Cacel để quay lại màn hình chính ```
+  -``` Nhấn Ok để thoát Game hoặc Cancel để quay lại màn hình chính ```
