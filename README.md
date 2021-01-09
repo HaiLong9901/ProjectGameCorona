@@ -29,6 +29,9 @@ Bài tập lớn môn kỹ thuật lập trình
 - *TextGame.h*: Tạo ra đối tượng text và các thao tác load text lên giao diện game
 - *File.h*: Gồm các hàm xử lý file *.txt*
 ### 2) Chương trình chính
+- Hàm *Init* : khởi tạo các biến toàn cục
+- Thiết lập nhân vật và các threats
+- Sử dụng vòng while để cập nhật dữ liệu lên màn hình
 ## III) Cách chơi Game "BK Corona Fighter"
 1) Khi khởi động Game, màn hình chính của Game sẽ là menu gồm các chức năng để người chơi lựa chọn
 
